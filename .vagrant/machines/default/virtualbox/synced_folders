@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/laraveladminlte":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/laraveladminlte","hostpath":"/Users/Edujugon/Code/Laravel/LaravelAdminLTE","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Edujugon/Code/Laravel/LaravelAdminLTE","disabled":false,"__vagrantfile":true}}}
