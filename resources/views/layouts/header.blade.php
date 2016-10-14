@@ -135,7 +135,7 @@
                     </ul>
                 </li>
                 <!-- Languages: style can be found in dropdown.less -->
-                <li class="dropdown tasks-menu">
+                <li class="dropdown notifications-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <i class="fa fa-flag-o"></i>
                         <span class="label label-danger"></span>
@@ -147,13 +147,13 @@
                             <ul class="menu">
                                 <li><!-- Language item -->
                                     <a href="{{url('language/en')}}">
-                                        <i class="fa fa-language text-red"></i> English
+                                        <i class="fa fa-language text-aqua"></i> English
                                     </a>
                                 </li>
                                 <!-- end Language item -->
                                 <li><!-- Language item -->
                                     <a href="{{url('language/es')}}">
-                                        <i class="fa fa-language text-red"></i> Español
+                                        <i class="fa fa-language text-aqua"></i> Español
                                     </a>
                                 </li>
                                 <!-- end Language item -->
