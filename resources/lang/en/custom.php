@@ -16,5 +16,5 @@ return [
 
     //Miscellaneous
     'name' => 'Name',
-
+    'dashboard' => 'Dashboard',
 ];

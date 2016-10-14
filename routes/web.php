@@ -19,6 +19,8 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index');
 
+Route::get('language/{lang}', 'LanguageController@index');
+
 //If unknown url, redirect to homepage.
 Route::any('{query}',
     function() { return redirect('/'); })

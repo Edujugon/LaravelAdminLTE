@@ -62,8 +62,8 @@
         <!-- Content Header (Page header) -->
         <section class="content-header">
             <h1>
-                Dashboard
-                <small>Control panel</small>
+                {{trans('custom.dashboard')}}
+                <small>{{config('company.COMPANY_NAME')}}</small>
             </h1>
             <ol class="breadcrumb">
                 <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
